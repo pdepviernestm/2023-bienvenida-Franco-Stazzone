@@ -25,5 +25,6 @@ Cuando no estoy estudiando me gusta leer o jugar. También me gusta el fútbol y
 - Mis juegos favoritos son Yakuza 0 y Monster Hunter World
 - Mi anime favorito es Neon Genesis Evangelion
 - Soy hincha de Boca
+- Mis jugadores favoritos son Messi y el dibu
 
 Aparte de eso, también programo en Python, aunque ultimamente estoy aprendiendo C#.

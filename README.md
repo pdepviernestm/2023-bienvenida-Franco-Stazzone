@@ -16,7 +16,7 @@ Mientras que las que menos me gustaron son:
 - Química
 - Ingeniería y Sociedad
 
-De las materias que estoy cursando este año, la que mejor me está pareciendo es Análisis de Sistemas.
+De las materias que estoy cursando este año (PdP, AM2, AdS, SSL y PyE), la que mejor me está pareciendo es Análisis de Sistemas.
 
 ## Sobre mí
 
